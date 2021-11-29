@@ -1,5 +1,7 @@
 ZABBIX-CaptivePortalPfsense
+
 Monitoring Users Logged In Captive Portal Pfsense 2.5.2
+
 Tested on Zabbix 4.0.x | Pfsense 2.5.2
 
 1. First copy the cp_users_zbx.php file to the /root/scripts directory.
